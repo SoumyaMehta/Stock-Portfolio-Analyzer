@@ -54,7 +54,7 @@ During the course of this project,
 
 ##### Skills used: Multithreading
 
-##### Pre-requisites
+### Pre-requisites
 Java 1.8/1.11/1.15
 Gradle 6
 How to run the code
@@ -73,10 +73,10 @@ Use the build.gradle file provided along with this project. Please change the ma
     }
 in the build.gradle if your main class has changed.
 
-##### How to execute the unit tests
+## How to execute the unit tests
 gradle clean test --no-daemon will execute the unit test cases.
 
-##### Help
+## Help
 You can refer our help documents here You can read build instructions here
 
 
