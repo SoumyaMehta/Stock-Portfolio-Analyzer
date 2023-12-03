@@ -1,4 +1,4 @@
-# Stock portfolio analyzer
+# Stock Portfolio Analyzer
 
 ## Overview
 
